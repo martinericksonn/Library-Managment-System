@@ -22,8 +22,6 @@ Final Project in Object Oriented Programming
 
 ## System Portals
 
-<hr>
-
 ### <b>Login Portal: </b>
 
 <img src="https://i.ibb.co/QKc72vj/login-Page.png" alt="login-Page" border="0"><br>
