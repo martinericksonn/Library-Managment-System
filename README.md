@@ -5,22 +5,18 @@ Developer: Martin Erickson P. Lapetaje
 &copy; 2021
 
 <br>
-<br>
-
 # <b> Description:</b>
 
 Final Project in Object Oriented Programming
 
 <br>
-<br>
-
 # <b>Project UI, UX and Elements<b>
 
 <br>
 
 ### <b> MySQL Database ERD:</b>
 
-<img src="https://i.ibb.co/2kzLNHD/ERD.png" alt="ERD" border="0"><br><br>
+<img src="https://i.ibb.co/2kzLNHD/ERD.png" alt="ERD" border="0"><br>
 
 ## System Portals
 
@@ -39,8 +35,6 @@ Final Project in Object Oriented Programming
 <img src="https://i.ibb.co/jZr2c7F/register2.png" alt="register2" border="0"><br>
 
 ## System Library Homepage
-
-<hr>
 
 ### <b>Main Menu</b>
 
