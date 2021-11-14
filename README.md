@@ -5,11 +5,13 @@ Developer: Martin Erickson P. Lapetaje
 &copy; 2021
 
 <br>
+
 # <b> Description:</b>
 
 Final Project in Object Oriented Programming
 
 <br>
+
 # <b>Project UI, UX and Elements<b>
 
 <br>
